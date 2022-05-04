@@ -63,15 +63,20 @@ Function-Plotter1
 
 <h2 href="#screenshots">ScreenShots</h2>
 <ol>
+<li>
+  <h4>Empty Expression</h4>
+  <img src="./SnapShots/Wrong Expression.jpg">
+ </li>
+
  <li>
   <h4>Invalid Expression Validations</h4>
-  ![alt text](./SnapShots/Invalid%20expression.jpg)
+  <img src="./SnapShots/Invalid expression.jpg">
  </li>
  <li>
   <h4>Max&Min Fields Validations</h4>
+  <img src="./SnapShots/empty_min and max.jpg">
+  <img src="./SnapShots/WrongMin&max.jpg">
   
-    ![alt text](./SnapShots/WrongMin%26max.jpg)
-    ![alt text](./SnapShots/empty_min%20and%20max.jpg)
  </li>
  
  <li> 
