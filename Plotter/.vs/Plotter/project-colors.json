@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b101f17-2951-49e7-bd04-d76341ca7c2e": {
+      "ProjectGuid": "0b101f17-2951-49e7-bd04-d76341ca7c2e",
+      "DisplayName": "Plotter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
