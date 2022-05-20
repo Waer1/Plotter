@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Test.py" />
     <Compile Include="Validation.py" />
     <Compile Include="ShowErrors.py" />
     <Compile Include="Plot.py" />

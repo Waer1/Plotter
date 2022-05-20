@@ -44,3 +44,4 @@ def validateMaxMinValues(minValue, maxValue):
 def validateDivisionByZero(expression, minValue, maxValue):
     if expression.find('/X') != -1 or expression.find('/x') != -1 and minValue <= 0 and maxValue >= 0:
         raise ValueError("Division By Zero!!!")
+    return 1

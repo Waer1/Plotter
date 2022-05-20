@@ -25,7 +25,7 @@
   <li> 
   <strong><em>Navigate to repository directory
 </em></strong>
-    <blockquote>$ cd Plotter</blockquote>
+    <blockquote>$ cd Plotter/Plotter</blockquote>
   </li>
   <li> 
   <strong><em>Install dependencies
